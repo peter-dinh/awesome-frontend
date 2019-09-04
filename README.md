@@ -304,6 +304,10 @@
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
 
+### Form
+
+- [Choices](https://github.com/jshjohnson/Choices) - Javascript audio library for the modern webA vanilla JS customisable select box/text input plugin.
+.
 ### Misc
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
